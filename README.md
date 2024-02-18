@@ -1,4 +1,4 @@
-### Hi, I'm Jarmyko. 👋
+### Hi, Jarmyko here. 👋
 
 I'm a beginner who's currently learning about web development.
 
