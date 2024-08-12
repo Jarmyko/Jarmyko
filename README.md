@@ -1,6 +1,6 @@
 ### Hi, Jarmyko here. 👋
 
-I'm a beginner who's currently learning about web development.
+I'm a beginner who's currently learning about web development. Alter account of Fajar Rahmana Akbar
 
 ### Github Statistic
 <p align="left">
